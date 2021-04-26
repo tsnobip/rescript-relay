@@ -26,7 +26,7 @@
   "bs-dev-dependencies": ["bs-fetch"],
   "suffix": ".bs.js",
   "warnings": {
-    "error": "+101"
+    "error": "+A"
   },
   "refmt": 3
 }
